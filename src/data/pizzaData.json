@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Teryaki",
+    "description": "seasoned chicken , diced tomatos and onions . peri peri souce",
+    "amount": 18.99
+  },
+  {
+    "id": 2,
+    "name": "Vegorama",
+    "description": "diced vegietables, onion, capcicum",
+    "amount": 12.50
+  },
+  {
+    "id": 3,
+    "name": "Pinaple Delight",
+    "description": "Pineapple, chedar cheese, onion rings, smoked ham and chicken",
+    "amount": 16.99
+  },
+  {
+    "id": 4,
+    "name": "Buffalo Chicken",
+    "description": "smoked chicken, buffalo sauce, tomato, capcicum, onion, mashrooms",
+    "amount": 19.00
+  }
+]
